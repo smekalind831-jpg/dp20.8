@@ -19,6 +19,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #define can_mode
+
 //#define RBUS_mode
 #define debug
 
