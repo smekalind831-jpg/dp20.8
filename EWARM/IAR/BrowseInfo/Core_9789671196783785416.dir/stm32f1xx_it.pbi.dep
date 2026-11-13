@@ -1,0 +1,31 @@
+P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\IAR\BrowseInfo\Core_9789671196783785416.dir\stm32f1xx_it.pbi: \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Core\Inc\stm32f1xx_it.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Core\Inc\stm32_assert.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_gpio.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_usart.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_tim.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_spi.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_dma.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_pwr.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_utils.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_cortex.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_exti.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_system.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_bus.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\aarch32\iccarm_builtin.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\stdint.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\CMSIS\Include\core_cm3.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_rcc.h \
+  P:\Dokument\南蘚DPM_reduc\Soft\IAR\EWARM\..\Core\Inc\main.h \
+  P:\Dokument\袛袩袦\DPM_reduc\Soft\IAR\Core\Src\stm32f1xx_it.c

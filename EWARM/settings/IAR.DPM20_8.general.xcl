@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 9.5\arm\bin\armPROC.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 9.5\arm\bin\armSIM2.dll" 
+
+"P:\Dokument\DPM\DPM_reduc\Soft\IAR\EWARM\IAR\Exe\IAR.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 9.5\arm\bin\armLibSupportUniversal.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 9.5\arm/config/debugger/Geehy/APM32F1xx.dmac" 
+
+
+
+

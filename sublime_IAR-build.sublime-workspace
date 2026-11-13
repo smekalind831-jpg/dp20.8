@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"turns"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/P/Dokument/DUA360/dua360_can-main/bsp/bsp_sc60228.h",
+		"/P/Dokument/DUA360/dua360_can-main/bsp/bsp_sc60228.c",
+		"/P/Dokument/DUA360/dua360_can-main/temp/RBus_9.h",
+		"/P/Dokument/DPM/DPM_reduc/Soft/IAR/Core/Src/Function/FRAM.c",
+		"/P/Dokument/DPM/DPM_reduc/Soft/IAR/Core/Src/Function/FRAM.h",
+		"/P/Dokument/DPM/DPM_reduc/Soft/IAR/Core/Inc/gpio.h",
+		"/P/Dokument/DPM/DPM_reduc/Soft/CubeMX/64MHz_/Core/Src/tim.c",
+		"/P/Dokument/DPM/DPM_reduc/Soft/IAR/Core/Inc/main.h",
+		"/P/Dokument/DPM/DPM_reduc/Soft/IAR/Core/Src/Function/Count.c",
+		"/P/Dokument/DPM/DPM_reduc/Soft/IAR/sublime_IAR-build.sublime-build",
+		"/P/Data/Teoriy/Подключение компилятора.txt",
+		"/P/Dokument/DPM/DPM_reduc/Soft/IAR/Core/Src/main.c",
+		"/P/Dokument/DUA360/dua360_can-main/temp/func.c",
+		"/P/Dokument/DUA360/dua360_can-main/bsp/bsp_fm25l16b.h",
+		"/P/Dokument/DUA360/dua360_can-main/bsp/bsp_fm25l16b.c",
+		"/P/Dokument/DUA360/dua360_can-main/SPI_proc.h",
+		"/P/Dokument/DUA360/dua360_can-main/SPI_proc.c",
+		"/P/Dokument/DUA360/dua360_can-main/bsp/bsp_spi_apm.h",
+		"/P/Dokument/DUA360/dua360_can-main/bsp/bsp_spi_apm.c",
+		"/P/Dokument/DPM/DPM_reduc/Soft/TMP/IAR/Core/Src/main.c",
+		"/?fs/home/Dokument/DPM/DPM_reduc/Soft/IAR/Core/Inc/main.h",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa6624.44120/tim.c",
+		"/P/Dokument/DUA360/dua360_can-main/temp/RBus_9.c",
+		"/P/Dokument/DPM/DPM_reduc/Soft/Arhiv/main.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/TMP/IAR/Core/Src/Function/ReadSC.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Inc/main.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/Function/FRAM.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/Function/FRAM.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/main.c",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/main.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Inc/Count.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/Function/Count.c",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/func.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/TMP/IAR/Core/Inc/main.h",
+		"/P/Dokument/DPM/DPM_reduc/Soft/Arhiv/IAR/Core/Src/Function/Count.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa6136.35299/main.c",
+		"/P/Dokument/DPM/DPM_reduc/Soft/IAR/Core/Src/main - копия.c",
+		"/P/Dokument/DPM/DPM_reduc/Soft/TMP/IAR/Core/Src/Function/FRAM.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa6520.33406/main.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa6520.18905/README.md",
+		"/P/Data/Teoriy/Sublime Text Build 3211/Data/Preferences.sublime-settings_1.json",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_spi.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/TMP/IAR/Core/Src/stm32f1xx_it - копия.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Inc/About.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Inc/FRAM.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/stm32f1xx_it.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5556.39378/main.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/DL220.14-113_RBus/peripheral_init.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR_CAN/Core/Src/main.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/DL220.14-113_RBus/prg_struct.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR_CAN/Core/Src/can.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR_CAN/Core/Src/gpio.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/DL220.14-113_RBus/CMSIS/core_cm3.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/DL220.14-113_RBus/scripts/post_build.py",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/DL220.14-113_RBus/About.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/DL220.14-113_RBus/scripts/About.h",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/DL220.14-113_RBus/main.c",
+		"/P/Data/Teoriy/CF2_2R_RS485_2024/CF2_2R/Src/modbus/ModbusRTU.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/Function/ReadSC.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5172.40694/main_s.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa6984.12741/cmsis_vstream.h",
+		"/P/Dokument/Р”РџРњ/main.cpp",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa6984.14897/Driver_ETH_MAC.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa6984.7977/Driver_CAN.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa6984.47133/Driver_I2C.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5404.17927/README.md",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5404.13379/os_tick_gtim.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5404.5086/cmsis_os.h",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5404.49419/iar_cortexM3b_math.a",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5404.47034/README.md",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_spi.c",
+		"/P/Dokument/ДПМ/Soft/Old_DPM/RBUS_redmine/RBus.c",
+		"/P/Dokument/ДПМ/Soft/Old_DPM/RBUS_redmine/RBus.h",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/param.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h",
+		"/C/Windows/system32/«P:/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/main.c:202»",
+		"/C/Windows/system32/«P:/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/main.c:194»",
+		"/P/Data/Teoriy/CF2_2R_RS485_2024/CF2_2R/Src/gpio.c",
+		"/P/Dokument/DUA360/dua360_can-main/Lib/sysctl.c",
+		"/P/Dokument/DUA360/dua360_can-main/main.h",
+		"/P/Dokument/DUA360/dua360_can-main/main.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/stm32f1xx_it - копия.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/main - копия.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5604.44751/main.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/Core/Src/system_stm32f1xx.c",
+		"/P/Data/Teoriy/CF2_2R_RS485_2024/CF2_2R/Src/main.c",
+		"/P/Data/Teoriy/CF2_2R_RS485_2024/CF2_2R/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_tim_ex.c",
+		"/P/Data/Teoriy/CF2_2R_RS485_2024/CF2_2R/Inc/tim.h",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5604.28097/stm32f1xx_it.c",
+		"/P/Dokument/DUA360/dua360_can-main/system_stm32f10x.c",
+		"/P/Data/Teoriy/CF2_2R_RS485_2024/CF2_2R/Inc/gpio.h",
+		"/P/Data/Teoriy/CF2_2R_RS485_2024/CF2_2R/Inc/main.h",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5604.16093/main.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/IAR/EWARM/IAR/Exe/IAR.out",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa6552.15222/canconf.h",
+		"/P/Data/Teoriy/CF2_2R_RS485_2024/CF2_2R/Src/usart.c",
+		"/P/Data/Teoriy/CF2_2R_RS485_2024/CF2_2R/Src/system_stm32l0xx.c",
+		"/C/Users/d.smekalin/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.4/README.md",
+		"/P/Data/STM/Soft/STM32CubeF1-master/Projects/README.md",
+		"/P/Data/STM/Soft/STM32CubeF1-master/Drivers/CMSIS/README.md",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/CubeMX/64MHz/Core/Src/stm32f1xx_it.c",
+		"/P/Data/STM/Soft/STM32CubeF1-master/README.md",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/CubeMX/64MHz/Core/Src/stm32f1xx_hal_msp.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa3668.14156/main.c",
+		"/P/Dokument/ДПМ/DPM_reduc/Soft/CubeMX/64MHz/Core/Src/main.c",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/battery_mode.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5864.18790/STLinkReflash.exe.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5864.4639/README.md",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5176.46273/main.c",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa5176.41136/README.md",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa1040.38723/README.md",
+		"/C/Users/d.smekalin/AppData/Local/Temp/Rar$DIa6404.28779/README.md",
+		"/P/Dokument/ДПМ/Soft/arhiv/main_.c",
+		"/P/Dokument/ДПМ/Soft/arhiv/main.c",
+		"/P/Dokument/ДПМ/Soft/Karantin/main.c",
+		"/P/Dokument/ДПМ/Soft/Karantin/func.c",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/main.c",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/GPIO.c",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/GPIO.h",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/battery_mode.h",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/func.c",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/normal_mode.c",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/timers.h",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/timers.c",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/RBus.h",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/RBus.c",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/param.h",
+		"/P/Dokument/ДПМ/Soft/DPM20.9_Soft/onewire.c"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "sublime_IAR-build.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

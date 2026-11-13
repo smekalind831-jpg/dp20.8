@@ -1,0 +1,17 @@
+P:\Dokument\DPM\DPM_reduc\Soft\DPM_20_8\EWARM\IAR\BrowseInfo\CAN_744886867894118947.dir\apm32f10x_pmu.pbi: \
+  P:\Dokument\DPM\DPM_reduc\Soft\DPM_20_8\Core\Src\CAN\apm32f10x_pmu.c \
+  P:\Dokument\DPM\DPM_reduc\Soft\DPM_20_8\EWARM\..\Core\Inc\CAN\apm32f10x_pmu.h \
+  P:\Dokument\DPM\DPM_reduc\Soft\DPM_20_8\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\apm32f10x.h \
+  P:\Dokument\DPM\DPM_reduc\Soft\DPM_20_8\EWARM\..\Drivers\CMSIS\Include\core_cm3.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\DLib_Product.h \
+  P:\Dokument\DPM\DPM_reduc\Soft\DPM_20_8\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  P:\Dokument\DPM\DPM_reduc\Soft\DPM_20_8\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  P:\Dokument\DPM\DPM_reduc\Soft\DPM_20_8\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 9.5\arm\inc\c\aarch32\iccarm_builtin.h \
+  P:\Dokument\DPM\DPM_reduc\Soft\DPM_20_8\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_apm32f10x.h \
+  P:\Dokument\DPM\DPM_reduc\Soft\DPM_20_8\EWARM\..\Core\Inc\CAN\apm32f10x_rcm.h

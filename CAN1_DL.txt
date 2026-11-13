@@ -1,0 +1,210 @@
+Name	Value	Access	
+MCTRL	0x0001'0004	ReadWrite	
+     DBGFRZE	1	ReadWrite	
+     SWRST	0	ReadWrite	
+     ALBOFFM	0	ReadWrite	
+     AWUPCFG	0	ReadWrite	
+     ARTXMD	0	ReadWrite	
+     RXFLOCK	0	ReadWrite	
+     TXFPCFG	1	ReadWrite	
+     SLEEPREQ	0	ReadWrite	
+     INITREQ	0	ReadWrite	
+MSTS	0x0000'0c00	ReadWrite	
+     RXSIGL	1	ReadWrite	
+     LSAMVALUE	1	ReadWrite	
+     RXMFLG	0	ReadWrite	
+     TXMFLG	0	ReadWrite	
+     SLEEPIFLG	0	ReadWrite	
+     WUPIFLG	0	ReadWrite	
+     ERRIFLG	0	ReadWrite	
+     SLEEPFLG	0	ReadWrite	
+     INITFLG	0	ReadWrite	
+TXSTS	0x1c00'0003	ReadWrite	
+     LOWESTP2	0	ReadWrite	
+     LOWESTP1	0	ReadWrite	
+     LOWESTP0	0	ReadWrite	
+     TXMEFLG2	1	ReadWrite	
+     TXMEFLG1	1	ReadWrite	
+     TXMEFLG0	1	ReadWrite	
+     EMNUM	0x0	ReadWrite	
+     ABREQFLG2	0	ReadWrite	
+     TXERRFLG2	0	ReadWrite	
+     ARBLSTFLG2	0	ReadWrite	
+     TXSUSFLG2	0	ReadWrite	
+     REQCFLG2	0	ReadWrite	
+     ABREQFLG1	0	ReadWrite	
+     TXERRFLG1	0	ReadWrite	
+     ARBLSTFLG1	0	ReadWrite	
+     TXSUSFLG1	0	ReadWrite	
+     REQCFLG1	0	ReadWrite	
+     ABREQFLG0	0	ReadWrite	
+     TXERRFLG0	0	ReadWrite	
+     ARBLSTFLG0	0	ReadWrite	
+     TXSUSFLG0	1	ReadWrite	
+     REQCFLG0	1	ReadWrite	
+RXF0	0x0000'0000	ReadWrite	
+     RFOM0	0	ReadWrite	
+     FOVRFLG0	0	ReadWrite	
+     FFULLFLG0	0	ReadWrite	
+     FMNUM0	0x0	ReadWrite	
+RXF1	0x0000'0000	ReadWrite	
+     RFOM1	0	ReadWrite	
+     FOVRFLG1	0	ReadWrite	
+     FFULLFLG1	0	ReadWrite	
+     FMNUM1	0x0	ReadWrite	
+INTEN	0x0000'865a	ReadWrite	
+     SLEEPIEN	0	ReadWrite	
+     WUPIEN	0	ReadWrite	
+     ERRIEN	1	ReadWrite	
+     LECIEN	0	ReadWrite	
+     BOFFIEN	1	ReadWrite	
+     ERRPIEN	1	ReadWrite	
+     ERRWIEN	0	ReadWrite	
+     FOVRIEN1	1	ReadWrite	
+     FFULLIEN1	0	ReadWrite	
+     FMIEN1	1	ReadWrite	
+     FOVRIEN0	1	ReadWrite	
+     FFULLIEN0	0	ReadWrite	
+     FMIEN0	1	ReadWrite	
+     TXMEIEN	0	ReadWrite	
+ERRSTS	0x0000'0000	ReadWrite	
+     RXERRCNT	0x00	ReadWrite	
+     TXERRCNT	0x00	ReadWrite	
+     LERRC	0x0	ReadWrite	
+     BOFLG	0	ReadWrite	
+     ERRPFLG	0	ReadWrite	
+     ERRWFLG	0	ReadWrite	
+BITTIM	0x0349'0008	ReadWrite	
+     SILMEN	0	ReadWrite	
+     LBKMEN	0	ReadWrite	
+     RSYNJW	0x3	ReadWrite	
+     TIMSEG2	0x4	ReadWrite	
+     TIMSEG1	0x9	ReadWrite	
+     BRPSC	0x08	ReadWrite	
+TXMID0	0xc7fe'36e4	ReadWrite	
+     STDID	0x63f	ReadWrite	
+     EXTID	0x3'c6dc	ReadWrite	
+     IDTYPESEL	1	ReadWrite	
+     TXRFREQ	0	ReadWrite	
+     TXMREQ	0	ReadWrite	
+TXDLEN0	0x5a15'9448	ReadWrite	
+     DLCODE	0x8	ReadWrite	
+TXMDL0	0xff6f'0000	ReadWrite	
+     DATABYTE3	0xff	ReadWrite	
+     DATABYTE2	0x6f	ReadWrite	
+     DATABYTE1	0x00	ReadWrite	
+     DATABYTE0	0x00	ReadWrite	
+TXMDH0	0xff9d'4a00	ReadWrite	
+     DATABYTE7	0xff	ReadWrite	
+     DATABYTE6	0x9d	ReadWrite	
+     DATABYTE5	0x4a	ReadWrite	
+     DATABYTE4	0x00	ReadWrite	
+TXMID1	0xc7fe'36e4	ReadWrite	
+     STDID	0x63f	ReadWrite	
+     EXTID	0x3'c6dc	ReadWrite	
+     IDTYPESEL	1	ReadWrite	
+     TXRFREQ	0	ReadWrite	
+     TXMREQ	0	ReadWrite	
+TXDLEN1	0xaa8c'1d08	ReadWrite	
+     DLCODE	0x8	ReadWrite	
+TXMDL1	0x0000'0000	ReadWrite	
+     DATABYTE3	0x00	ReadWrite	
+     DATABYTE2	0x00	ReadWrite	
+     DATABYTE1	0x00	ReadWrite	
+     DATABYTE0	0x00	ReadWrite	
+TXMDH1	0xffff'ffff	ReadWrite	
+     DATABYTE7	0xff	ReadWrite	
+     DATABYTE6	0xff	ReadWrite	
+     DATABYTE5	0xff	ReadWrite	
+     DATABYTE4	0xff	ReadWrite	
+TXMID2	0xc7fe'36e4	ReadWrite	
+     STDID	0x63f	ReadWrite	
+     EXTID	0x3'c6dc	ReadWrite	
+     IDTYPESEL	1	ReadWrite	
+     TXRFREQ	0	ReadWrite	
+     TXMREQ	0	ReadWrite	
+TXDLEN2	0x936d'0368	ReadWrite	
+     DLCODE	0x8	ReadWrite	
+TXMDL2	0x0000'0000	ReadWrite	
+     DATABYTE3	0x00	ReadWrite	
+     DATABYTE2	0x00	ReadWrite	
+     DATABYTE1	0x00	ReadWrite	
+     DATABYTE0	0x00	ReadWrite	
+TXMDH2	0xffff'ffff	ReadWrite	
+     DATABYTE7	0xff	ReadWrite	
+     DATABYTE6	0xff	ReadWrite	
+     DATABYTE5	0xff	ReadWrite	
+     DATABYTE4	0xff	ReadWrite	
+RXMID0	0x6777'fee4	ReadOnly	
+     STDID	0x33b	ReadOnly	
+     EXTID	0x2'ffdc	ReadOnly	
+     IDTYPESEL	1	ReadOnly	
+     RFTXREQ	0	ReadOnly	
+RXDLEN0	0x0000'0208	ReadOnly	
+RXMDL0	0x0017'0044	ReadOnly	
+RXMDH0	0x1000'0000	ReadOnly	
+RXMID1	0x964f'b0b2	ReadOnly	
+RXDLEN1	0x4c88'343c	ReadOnly	
+RXMDL1	0x744b'43d7	ReadOnly	
+RXMDH1	0x22f1'd0c8	ReadOnly	
+FCTRL	0x2a1c'0e00	ReadWrite	
+FMCFG	0x0000'0000	ReadWrite	
+FSCFG	0x0000'00ff	ReadWrite	
+FFASS	0x0000'0000	ReadWrite	
+FACT	0x0000'00ff	ReadWrite	
+F0BANK1	0x0766'e004	ReadWrite	
+F0BANK2	0x07f8'0004	ReadWrite	
+F1BANK1	0xc756'e004	ReadWrite	
+F1BANK2	0x07f8'0004	ReadWrite	
+F2BANK1	0x0777'fee4	ReadWrite	
+F2BANK2	0x07ff'fffc	ReadWrite	
+F3BANK1	0x06ce'e004	ReadWrite	
+F3BANK2	0x07ff'f804	ReadWrite	
+F4BANK1	0x06be'e004	ReadWrite	
+F4BANK2	0x07ff'f804	ReadWrite	
+F5BANK1	0x075e'e004	ReadWrite	
+F5BANK2	0x07f8'0004	ReadWrite	
+F6BANK1	0x053e'e004	ReadWrite	
+F6BANK2	0x07f8'0004	ReadWrite	
+F7BANK1	0x07f6'c804	ReadWrite	
+F7BANK2	0x07ff'f804	ReadWrite	
+F8BANK1	0x31fd'20c7	ReadWrite	
+F8BANK2	0x5137'2288	ReadWrite	
+F9BANK1	0x809d'd155	ReadWrite	
+F9BANK2	0x0ecd'df0d	ReadWrite	
+F10BANK1	0xe3ae'a43e	ReadWrite	
+F10BANK2	0x89aa'bf2c	ReadWrite	
+F11BANK1	0xb33c'4805	ReadWrite	
+F11BANK2	0x5f01'00ec	ReadWrite	
+F12BANK1	0xd450'6884	ReadWrite	
+F12BANK2	0x1a87'fd8a	ReadWrite	
+F13BANK1	0xc899'f0e5	ReadWrite	
+F13BANK2	0x0f6e'6cac	ReadWrite	
+F14BANK1	0x0f6e'6cac	ReadWrite	
+F14BANK2	0x0f6e'6cac	ReadWrite	
+F15BANK1	0x0f6e'6cac	ReadWrite	
+F15BANK2	0x0f6e'6cac	ReadWrite	
+F16BANK1	0x0f6e'6cac	ReadWrite	
+F16BANK2	0x0f6e'6cac	ReadWrite	
+F17BANK1	0x0f6e'6cac	ReadWrite	
+F17BANK2	0x0f6e'6cac	ReadWrite	
+F18BANK1	0x0f6e'6cac	ReadWrite	
+F18BANK2	0x0f6e'6cac	ReadWrite	
+F19BANK1	0x0f6e'6cac	ReadWrite	
+F19BANK2	0x0f6e'6cac	ReadWrite	
+F20BANK1	0x0f6e'6cac	ReadWrite	
+F20BANK2	0x0f6e'6cac	ReadWrite	
+F21BANK1	0x0f6e'6cac	ReadWrite	
+F21BANK2	0x0f6e'6cac	ReadWrite	
+F22BANK1	0x0f6e'6cac	ReadWrite	
+F22BANK2	0x0f6e'6cac	ReadWrite	
+F23BANK1	0x0f6e'6cac	ReadWrite	
+F23BANK2	0x0f6e'6cac	ReadWrite	
+F24BANK1	0x0f6e'6cac	ReadWrite	
+F24BANK2	0x0f6e'6cac	ReadWrite	
+F25BANK1	0x0f6e'6cac	ReadWrite	
+F25BANK2	0x0f6e'6cac	ReadWrite	
+F26BANK1	0x0f6e'6cac	ReadWrite	
+F26BANK2	0x0f6e'6cac	ReadWrite	
+F27BANK1	0x0f6e'6cac	ReadWrite	
+F27BANK2	0x0f6e'6cac	ReadWrite	

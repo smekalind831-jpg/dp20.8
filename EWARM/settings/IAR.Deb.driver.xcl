@@ -1,0 +1,19 @@
+"--endian=little" 
+
+"--cpu=Cortex-M3" 
+
+"--fpu=None" 
+
+"-p" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 9.5\arm\config\debugger\Geehy\APM32F103xC.ddf" 
+
+"--semihosting" 
+
+"--device=APM32F103RC" 
+
+"--multicore_nr_of_cores=1" 
+
+
+
+

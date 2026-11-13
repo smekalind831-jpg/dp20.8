@@ -1,0 +1,329 @@
+###############################################################################
+#
+# IAR ELF Linker V9.50.1.380/W64 for ARM                  29/Apr/2026  15:58:23
+# Copyright 2007-2023 IAR Systems AB.
+#
+#    Output file  =
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Exe\IAR_CAN.out
+#    Map file     =
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\List\IAR_CAN.map
+#    Command line =
+#        -f
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Exe\IAR_CAN.out.rsp
+#        (P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\Core_13247989168731456611.dir\can.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\Core_13247989168731456611.dir\gpio.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\Core_13247989168731456611.dir\main.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\Core_13247989168731456611.dir\spi.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_can.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_cortex.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_dma.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_exti.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_flash.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_flash_ex.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_gpio.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_gpio_ex.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\Core_13247989168731456611.dir\stm32f1xx_hal_msp.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_pwr.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_rcc.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_rcc_ex.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_tim.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_hal_tim_ex.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\Core_13247989168731456611.dir\stm32f1xx_it.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_ll_dma.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_ll_exti.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_ll_gpio.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_ll_rcc.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_ll_spi.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_ll_tim.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir\stm32f1xx_ll_utils.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\CMSIS_6603591812247902717.dir\system_stm32f1xx.o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\Core_13247989168731456611.dir\tim.o
+#        --redirect _Printf=_PrintfFull --redirect _Scanf=_ScanfFull
+#        --no_out_extension -o
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Exe\IAR_CAN.out
+#        --map
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\List\IAR_CAN.map
+#        --config
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\config\cm5.1-18-8_apm.icf
+#        --semihosting --entry __iar_program_start --vfe --text_out locale
+#        --cpu=Cortex-M3 --fpu=None) --dependencies=n
+#        P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Exe\IAR_CAN.out.iar_deps
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__CPP_Runtime   = 1
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because --advanced_heap
+was not specified and the application did not appear to
+be primarily optimized for speed.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x800'0000 { ro section .intvec };
+"P2":  place in [from 0x800'0000 to 0x801'f7ff] { ro };
+define block CSTACK with size = 1K, alignment = 8 { };
+define block HEAP with size = 256, alignment = 8 { };
+"P3":  place in [from 0x2000'0000 to 0x2000'4fff] {
+          rw, block CSTACK, block HEAP };
+initialize by copy { rw };
+
+No sections matched the following patterns:
+
+  ro section .checksum1  in "A1"
+  ro section .checksum2  in "A2"
+  ro section .mainver    in "P1"
+
+
+  Section            Kind         Address  Aligment    Size  Object
+  -------            ----         -------  --------    ----  ------
+"A0":                                                  0x40
+  .intvec            ro code   0x800'0000         4    0x40  vector_table_M.o [5]
+                             - 0x800'0040              0x40
+
+"P2":                                                0x12fd
+  .text              ro code   0x800'0040         4   0x2e4  stm32f1xx_hal_gpio.o [3]
+  .text              ro code   0x800'0324         4   0x172  main.o [2]
+  .text              ro code   0x800'0496         2    0x3a  packbits_init_single.o [5]
+  .text              ro code   0x800'04d0         4    0x24  stm32f1xx_hal.o [3]
+  .text              ro code   0x800'04f4         4    0xb0  gpio.o [2]
+  .text              ro code   0x800'05a4         4   0x144  spi.o [2]
+  .text              ro code   0x800'06e8         4    0xce  tim.o [2]
+  .text              ro code   0x800'07b8         4    0xbc  can.o [2]
+  .text              ro code   0x800'0874         4     0xc  stm32f1xx_ll_utils.o [3]
+  .text              ro code   0x800'0880         4    0x40  stm32f1xx_hal.o [3]
+  .text              ro code   0x800'08c0         4    0xec  stm32f1xx_hal_cortex.o [3]
+  .text              ro code   0x800'09ac         4    0x40  stm32f1xx_hal_msp.o [2]
+  .text              ro code   0x800'09ec         4    0x12  ABImemset_small.o [5]
+  .text              ro code   0x800'0a00         4   0x156  stm32f1xx_ll_gpio.o [3]
+  .text              ro code   0x800'0b58         4   0x152  stm32f1xx_ll_spi.o [3]
+  .text              ro code   0x800'0cac         4    0xdc  stm32f1xx_ll_tim.o [3]
+  .text              ro code   0x800'0d88         4   0x2a8  stm32f1xx_hal_can.o [3]
+  .text              ro code   0x800'1030         4     0xc  stm32f1xx_hal.o [3]
+  .rodata            const     0x800'103c         4    0x60  stm32f1xx_hal_cortex.o [3]
+  .rodata            const     0x800'109c         4    0x60  stm32f1xx_hal_gpio.o [3]
+  .rodata            const     0x800'10fc         4    0x5c  stm32f1xx_hal_can.o [3]
+  .rodata            const     0x800'1158         4    0x5c  stm32f1xx_ll_gpio.o [3]
+  .rodata            const     0x800'11b4         4    0x5c  stm32f1xx_ll_spi.o [3]
+  .rodata            const     0x800'1210         4    0x5c  stm32f1xx_ll_tim.o [3]
+  .text              ro code   0x800'126c         4    0x2a  data_init.o [5]
+  .iar.init_table    const     0x800'1298         4    0x10  - Linker created -
+  .text              ro code   0x800'12a8         4    0x1e  cmain.o [5]
+  .text              ro code   0x800'12c6         2     0x4  low_level_init.o [4]
+  .text              ro code   0x800'12ca         2     0x4  exit.o [4]
+  .text              ro code   0x800'12d0         4     0xa  cexit.o [5]
+  .text              ro code   0x800'12dc         4    0x14  exit.o [6]
+  .text              ro code   0x800'12f0         4    0x1c  cstartup_M.o [5]
+  .text              ro code   0x800'130c         2    0x14  stm32f1xx_it.o [2]
+  .text              ro code   0x800'1320         4    0x10  stm32f1xx_hal.o [3]
+  .rodata            const     0x800'1330               0x0  packbits_init_single.o [5]
+  Initializer bytes  const     0x800'1330               0xd  <for P3-1>
+                             - 0x800'133d            0x12fd
+
+"P3", part 1 of 2:                                     0x38
+  P3-1                        0x2000'0000              0x38  <Init block>
+    .data            inited   0x2000'0000         4     0xc  stm32f1xx_hal.o [3]
+    .data            inited   0x2000'000c         4     0x4  system_stm32f1xx.o [1]
+    .bss             inited   0x2000'0010         4    0x28  can.o [2]
+                            - 0x2000'0038              0x38
+
+"P3", part 2 of 2:                                    0x400
+  CSTACK                      0x2000'0038         8   0x400  <Block>
+    CSTACK           uninit   0x2000'0038             0x400  <Block tail>
+                            - 0x2000'0438             0x400
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+   0x800'133d   0x801'f7ff  0x1'e4c3
+  0x2000'0438  0x2000'4fff    0x4bc8
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Copy/packbits (__iar_packbits_init_single3)
+    1 source range, total size 0xd (23% of destination):
+           0x800'1330   0xd
+    1 destination range, total size 0x38:
+          0x2000'0000  0x38
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                  ro code  ro data  rw data
+    ------                  -------  -------  -------
+command line/config:
+    -------------------------------------------------
+    Total:
+
+P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\CMSIS_6603591812247902717.dir: [1]
+    system_stm32f1xx.o                     1        4
+    -------------------------------------------------
+    Total:                                 1        4
+
+P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\Core_13247989168731456611.dir: [2]
+    can.o                       188       10       40
+    gpio.o                      176
+    main.o                      370
+    spi.o                       324
+    stm32f1xx_hal_msp.o          64
+    stm32f1xx_it.o               20
+    tim.o                       206
+    -------------------------------------------------
+    Total:                    1'348       10       40
+
+P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir: [3]
+    stm32f1xx_hal.o             128        2       12
+    stm32f1xx_hal_can.o         680       92
+    stm32f1xx_hal_cortex.o      236       96
+    stm32f1xx_hal_gpio.o        740       96
+    stm32f1xx_ll_gpio.o         342       92
+    stm32f1xx_ll_spi.o          338       92
+    stm32f1xx_ll_tim.o          220       92
+    stm32f1xx_ll_utils.o         12
+    -------------------------------------------------
+    Total:                    2'696      562       12
+
+dl7M_tln.a: [4]
+    exit.o                        4
+    low_level_init.o              4
+    -------------------------------------------------
+    Total:                        8
+
+rt7M_tl.a: [5]
+    ABImemset_small.o            18
+    cexit.o                      10
+    cmain.o                      30
+    cstartup_M.o                 28
+    data_init.o                  42
+    packbits_init_single.o       58
+    vector_table_M.o             64
+    -------------------------------------------------
+    Total:                      250
+
+shb_l.a: [6]
+    exit.o                       20
+    -------------------------------------------------
+    Total:                       20
+
+    Gaps                         12        2
+    Linker created                        16    1'024
+-----------------------------------------------------
+    Grand Total:              4'334      591    1'080
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address   Size  Type      Object
+-----                       -------   ----  ----      ------
+.iar.init_table$$Base    0x800'1298          --   Gb  - Linker created -
+.iar.init_table$$Limit   0x800'12a8          --   Gb  - Linker created -
+?main                    0x800'12a9         Code  ??  cmain.o [5]
+BusFault_Handler         0x800'1313    0x2  Code  ??  stm32f1xx_it.o [2]
+CSTACK$$Base            0x2000'0038          --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'0438          --   ??  - Linker created -
+DebugMon_Handler         0x800'1319    0x2  Code  ??  stm32f1xx_it.o [2]
+Error_Handler            0x800'0491    0x4  Code  ??  main.o [2]
+HAL_CAN_Init             0x800'0d89  0x280  Code  ??  stm32f1xx_hal_can.o [3]
+HAL_CAN_MspInit          0x800'07f7   0x6e  Code  ??  can.o [2]
+HAL_GPIO_Init            0x800'0041  0x29c  Code  ??  stm32f1xx_hal_gpio.o [3]
+HAL_GetTick              0x800'1031    0xc  Code  Wk  stm32f1xx_hal.o [3]
+HAL_IncTick              0x800'1321   0x10  Code  Wk  stm32f1xx_hal.o [3]
+HAL_Init                 0x800'04d1   0x20  Code  ??  stm32f1xx_hal.o [3]
+HAL_InitTick             0x800'0881   0x40  Code  Wk  stm32f1xx_hal.o [3]
+HAL_MspInit              0x800'09ad   0x40  Code  ??  stm32f1xx_hal_msp.o [2]
+HAL_NVIC_SetPriority     0x800'090b   0x62  Code  ??  stm32f1xx_hal_cortex.o [3]
+HAL_NVIC_SetPriorityGrouping
+                         0x800'08db   0x30  Code  ??  stm32f1xx_hal_cortex.o [3]
+HAL_SYSTICK_Config       0x800'096d   0x22  Code  ??  stm32f1xx_hal_cortex.o [3]
+HardFault_Handler        0x800'130f    0x2  Code  ??  stm32f1xx_it.o [2]
+LL_APB1_GRP1_EnableClock
+                         0x800'06e9   0x16  Code  Lc  tim.o [2]
+LL_APB2_GRP1_EnableClock
+                         0x800'04f5   0x16  Code  Lc  gpio.o [2]
+LL_APB2_GRP1_EnableClock
+                         0x800'05a5   0x16  Code  Lc  spi.o [2]
+LL_GPIO_Init             0x800'0a01  0x126  Code  ??  stm32f1xx_ll_gpio.o [3]
+LL_SPI_Init              0x800'0b59  0x13a  Code  ??  stm32f1xx_ll_spi.o [3]
+LL_SetSystemCoreClock    0x800'0875    0x6  Code  ??  stm32f1xx_ll_utils.o [3]
+LL_TIM_Init              0x800'0cad   0xbe  Code  ??  stm32f1xx_ll_tim.o [3]
+MX_CAN_Init              0x800'07b9   0x3e  Code  ??  can.o [2]
+MX_GPIO_Init             0x800'050b   0x74  Code  ??  gpio.o [2]
+MX_SPI1_Init             0x800'05bb   0x80  Code  ??  spi.o [2]
+MX_SPI2_Init             0x800'063b   0x84  Code  ??  spi.o [2]
+MX_TIM2_Init             0x800'06ff   0x4c  Code  ??  tim.o [2]
+MX_TIM3_Init             0x800'074b   0x48  Code  ??  tim.o [2]
+MemManage_Handler        0x800'1311    0x2  Code  ??  stm32f1xx_it.o [2]
+NMI_Handler              0x800'130d    0x2  Code  ??  stm32f1xx_it.o [2]
+NVIC_EncodePriority      0x800'033f   0x36  Code  Lc  main.o [2]
+PendSV_Handler           0x800'131b    0x2  Code  ??  stm32f1xx_it.o [2]
+Region$$Table$$Base      0x800'1298          --   ??  - Linker created -
+Region$$Table$$Limit     0x800'12a8          --   ??  - Linker created -
+SVC_Handler              0x800'1317    0x2  Code  ??  stm32f1xx_it.o [2]
+SysTick_Handler          0x800'131d    0x4  Code  ??  stm32f1xx_it.o [2]
+SystemClock_Config       0x800'03f5   0x80  Code  ??  main.o [2]
+SystemCoreClock         0x2000'000c    0x4  Data  ??  system_stm32f1xx.o [1]
+UsageFault_Handler       0x800'1315    0x2  Code  ??  stm32f1xx_it.o [2]
+__NVIC_SetPriority       0x800'0325   0x1a  Code  Lc  main.o [2]
+__NVIC_SetPriority       0x800'08c1   0x1a  Code  Lc  stm32f1xx_hal_cortex.o [3]
+__cmain                  0x800'12a9         Code  ??  cmain.o [5]
+__exit                   0x800'12dd   0x14  Code  ??  exit.o [6]
+__iar_data_init3         0x800'126d   0x18  Code  ??  data_init.o [5]
+__iar_packbits_init_single3
+                         0x800'0497   0x3a  Code  ??  packbits_init_single.o [5]
+__iar_program_start      0x800'12f1         Code  ??  cstartup_M.o [5]
+__iar_small_Memset       0x800'09ed         Code  ??  ABImemset_small.o [5]
+__iar_small_Memset_word
+                         0x800'09ed         Code  ??  ABImemset_small.o [5]
+__iar_small_memset       0x800'09ed         Code  ??  ABImemset_small.o [5]
+__low_level_init         0x800'12c7    0x4  Code  ??  low_level_init.o [4]
+__vector_table           0x800'0000         Data  ??  vector_table_M.o [5]
+_call_main               0x800'12b5         Code  ??  cmain.o [5]
+_exit                    0x800'12d1         Code  ??  cexit.o [5]
+assert_failed            0x800'0495    0x2  Code  ??  main.o [2]
+exit                     0x800'12cb    0x4  Code  ??  exit.o [4]
+hcan                    0x2000'0010   0x28  Data  ??  can.o [2]
+main                     0x800'0375   0x72  Code  ??  main.o [2]
+uwTick                  0x2000'0004    0x4  Data  ??  stm32f1xx_hal.o [3]
+uwTickFreq              0x2000'0000    0x1  Data  ??  stm32f1xx_hal.o [3]
+uwTickPrio              0x2000'0008    0x4  Data  ??  stm32f1xx_hal.o [3]
+
+
+[1] = P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\CMSIS_6603591812247902717.dir
+[2] = P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\Core_13247989168731456611.dir
+[3] = P:\Dokument\DPM\DPM_reduc\Soft\IAR_CAN\EWARM\IAR_CAN\Obj\STM32F1xx_HAL_Driver_9701002599162248031.dir
+[4] = dl7M_tln.a
+[5] = rt7M_tl.a
+[6] = shb_l.a
+
+  4'334 bytes of readonly  code memory
+    591 bytes of readonly  data memory
+  1'080 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

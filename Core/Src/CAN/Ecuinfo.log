@@ -1,0 +1,27 @@
+Expression	Value	Location	Type	
+
+Ecuinfo	<struct>				0x2000'4508	ecu_id	
+user_data_length	0x800			0x2000'4508	unsigned short	
+id_CAN	<struct>				0x2000'450a	struct <Unnamed 320>	
+address	'Ь' (0xDC)				0x2000'450a	unsigned char	
+name	<union>					0x2000'450b	union <Unnamed 292>	
+byte	<array>""				0x2000'450b	unsigned char[8]	
+[0]	'\0' (0x00)				0x2000'450b	unsigned char	
+[1]	'\0' (0x00)				0x2000'450c	unsigned char	
+[2]	'\0' (0x00)				0x2000'450d	unsigned char	
+[3]	'\0' (0x00)				0x2000'450e	unsigned char	
+[4]	'\0' (0x00)				0x2000'450f	unsigned char	
+[5]	''' (0x27)				0x2000'4510	unsigned char	
+[6]	'\0' (0x00)				0x2000'4511	unsigned char	
+[7]	'\0' (0x00)				0x2000'4512	unsigned char	
+	<struct>				0x2000'450b	struct <Unnamed 257>	
+identity_number	0				0x2000'450b	unsigned int	
+manufacturer_code	0			0x2000'450b	unsigned int	
+ecu_instance	'\0' (0x00)			0x2000'450b	unsigned char	
+function_instance	'\0' (0x00)		0x2000'450b	unsigned char	
+function	''' (0x27)			0x2000'450b	unsigned char	
+reserved	'\0' (0x00)			0x2000'450b	unsigned char	
+vehicle_system	'\0' (0x00)			0x2000'450b	unsigned char	
+vehicle_system_instance	'\0' (0x00)		0x2000'450b	unsigned char	
+industry_group	'\0' (0x00)			0x2000'450b	unsigned char	
+arbitrary_address_capable	'\0' (0x00)	0x2000'450b	unsigned char	
